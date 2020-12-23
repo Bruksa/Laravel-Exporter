@@ -19,7 +19,6 @@
     "require": {
 	    "php" : ">=5.4.0",
 	    "laravel/framework": "5.*",
-        "phpoffice/phpspreadsheet": "^1.10",
 	    "maatwebsite/excel": "2.*"
     },
     "require-dev": {
